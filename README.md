@@ -1,4 +1,9 @@
-# projeto-OO-ada
+# Projeto Individual módulo OO
+![image](https://github.com/SilvioRC/projeto-OO-ada/assets/70579689/23d0f9c6-4a99-4ea2-8533-0c881876a45a)
+
+
+
+
 ## Rodar o projeto
 ### instalar typescript
 ### npm i -g typescript
